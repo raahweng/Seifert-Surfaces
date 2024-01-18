@@ -1,7 +1,4 @@
 # Seifert-Surfaces
-
-Winner of Imperial College First Year Project Prize.
-
 ![Visualising knots using Seifert Surfaces](https://github.com/raahweng/Seifert-Surfaces/blob/main/Visualising%20Knots%20using%20Seifert%20Surfaces.pdf)
 
 ![trefoilplot](https://github.com/raahweng/Seifert-Surfaces/assets/55945020/782af0fe-d98c-4e08-802f-3e0d6c60d86a)
